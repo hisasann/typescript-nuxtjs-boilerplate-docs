@@ -1,3 +1,6 @@
+# This repository has been moved to:
+## <https://github.com/typescript-nuxtjs-boilerplate/docs>
+
 # :bento: typescript-nuxtjs-boilerplate-docs
 
 ---
